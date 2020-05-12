@@ -1,0 +1,9 @@
+To start we will analyse different areas of Leipzig, in order to find the sectors more visited in different days of the week and to identify those with a higher density of restaurants. The focus must remain mainly on the commercial areas. In order to do so, we will use the Foursquare location data of different points of interest of the city, to classify them according to the number of visits and then on the number of restaurants and bars nearby. Different clustering modeling of the data will be crucial for such purpose.
+
+Several options for the clustering can be explored, as in the type of restaurants or in the public interest on the sectors (visits frequency and times of the day with more traffic).
+
+Once such sectors are identified, the next step the areas where alternative restaurants are, in order to explore the possibility to open the restaurant in one of such sectors. The clustering modeling obtained will help in order to determine if commercial or touristic areas are more suited to the kind of new restaurant.
+
+DATA:
+
+Points of interest in Leipzig, as well some commercial or tourist neighborhoods. Such points will be transformed to geographical coordinates and with the help of Foursquare location data they will be classified according to the number of visits to the sector in different days of the week and the number/kind of restaurants/bars nearby.
